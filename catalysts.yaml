@@ -1,0 +1,13 @@
+catalysts:
+  - slug_contains: "fed"
+    catalyst_datetime: "2026-04-03T18:00:00Z"
+    catalyst_type: "economic-release"
+    confidence: 0.85
+  - slug_contains: "debate"
+    catalyst_datetime: "2026-03-20T01:00:00Z"
+    catalyst_type: "campaign-event"
+    confidence: 0.75
+  - slug_contains: "earnings"
+    catalyst_datetime: "2026-03-22T20:30:00Z"
+    catalyst_type: "earnings-call"
+    confidence: 0.80
